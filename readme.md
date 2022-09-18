@@ -11,7 +11,7 @@
   - Used Only **Html** and **CSS**
   - I used flexbox and media queries to make the section mobile responsive.
   - I learned a lot about flexbox and grid combined.
-  - Learned to about box-shadow.
+  - I Learned about box-shadow.
 
   <br>
 
@@ -19,4 +19,4 @@
 
 <br>
 
-> ## It took around 4 hours to complete and make this project **Mobiile** Responsive.
+> ## It took around 4 hours to complete and make this project **Mobile** Responsive.
